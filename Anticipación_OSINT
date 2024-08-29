@@ -93,6 +93,10 @@ def buscar_fugas(palabra):
 # Ingresar la palabra clave de búsqueda
 palabra_clave = input("Ingresa la palabra clave de búsqueda: ")
 
+Compilación herramientas OSINT ----->>
+
+https://github.com/NotLoBi/NotLoBi
+
 # Ejecutar la función para buscar posibles fugas de información para la palabra clave ingresada
 buscar_fugas(palabra_clave)
 
