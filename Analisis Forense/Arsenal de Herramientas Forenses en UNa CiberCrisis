@@ -1,0 +1,102 @@
+#	Herramienta	Función Principal	Sitio de descarga/información
+
+1	Autopsy	Análisis forense de discos y dispositivos	https://www.autopsy.com/download/
+2	EnCase	Análisis forense de evidencia digital	https://www.opentext.com/products/encase-forensic
+3	AccessData (FTK)	Imagen y análisis forense de datos	https://accessdata.com/products-services/forensic-toolkit-ftk
+4	X-Ways Forensics	Análisis avanzado de discos	https://www.x-ways.net/forensics/
+5	Sleuth Kit	Herramientas de análisis de sistemas de archivos	https://www.sleuthkit.org/sleuthkit/download.php
+6	Volatility	Análisis forense de memoria RAM	https://github.com/volatilityfoundation/volatility3
+7	Wireshark	Captura y análisis de tráfico de red	https://www.wireshark.org/download.html
+8	Cellebrite UFED	Extracción y análisis de datos móviles	https://www.cellebrite.com/en/ufed-ultimate/
+9	Email Collector	Recolección y análisis de correos electrónicos	https://www.metaspike.com/forensic-email-collector/
+10	Forensics (DFF)	Marco de análisis forense digital	https://www.digital-forensic.org/download/
+11	Magnet AXIOM	Análisis y extracción de evidencia digital	https://www.magnetforensics.com/resources/axiom-trial/
+12	Oxygen Detective	Análisis forense de dispositivos móviles	https://oxygenforensics.com/en/download
+13	OSForensics	Búsqueda y análisis de evidencia digital	https://www.osforensics.com/download.html
+14	NetworkMiner	Análisis pasivo de tráfico de red	https://www.netresec.com/?page=NetworkMiner
+15	RegRipper	Análisis del registro de Windows	https://github.com/keydet89/RegRipper4.0
+16	Bulk Extractor	Extracción masiva de artefactos forenses	https://github.com/simsong/bulk_extractor
+17	Ghiro	Análisis forense de imágenes digitales	https://www.getghiro.org/download/
+18	Scalpel	Recuperación de archivos borrados	https://github.com/sleuthkit/scalpel
+19	HxD	Editor hexadecimal de archivos y discos	https://mh-nexus.de/en/hxd/
+20	TestDisk	Recuperación de particiones y discos	https://www.cgsecurity.org/wiki/TestDisk_Download
+21	PhotoRec	Recuperación de archivos borrados	https://www.cgsecurity.org/wiki/PhotoRec
+22	CAINE	Distribución Linux forense	https://www.caine-live.net/page5/page5.html
+23	Axiom Cyber	Análisis forense y respuesta empresarial	https://www.magnetforensics.com/products/magnet-axiom-cyber/
+24	Belkasoft Evidence	Análisis de evidencia digital multiplataforma	https://belkasoft.com/download
+25	Fibratus	Análisis de actividad del núcleo de Windows	https://github.com/rabbitstack/fibratus
+26	Autopsy Browser	Navegador de casos forenses	https://www.autopsy.com/download/
+27	Kali Linux	Distribución Linux con herramientas forenses	https://www.kali.org/get-kali/
+28	DEFT	Distribución Linux forense	http://www.deftlinux.net/
+29	Volatility Framework	Marco para análisis de memoria	https://github.com/volatilityfoundation/volatility3
+30	PyFlag	Análisis forense de logs y archivos	https://github.com/pyflag/pyflag
+31	Plaso (log2timeline)	Generación de líneas de tiempo forenses	https://github.com/log2timeline/plaso
+32	TSK (The Sleuth Kit)	Herramientas para sistemas de archivos	https://www.sleuthkit.org/sleuthkit/download.php
+33	Redline	Análisis de endpoints y memoria	https://www.fireeye.com/services/freeware/redline.html
+34	Snort	Detección de intrusiones en red	https://www.snort.org/downloads
+35	Tcpdump	Captura y análisis de paquetes de red	https://www.tcpdump.org/
+36	Ngrep	Búsqueda de patrones en tráfico de red	https://github.com/jpr5/ngrep
+37	dcfldd	Duplicación forense de discos	https://sourceforge.net/projects/dcfldd/
+38	Wireshark	Captura y análisis de tráfico de red	https://www.wireshark.org/download.html
+39	SIFT (SANS)	Distribución Linux forense	https://digital-forensics.sans.org/community/downloads
+40	Paladin	Suite forense basada en Linux	https://sumuri.com/software/paladin/
+41	CAINE Live	Distribución forense en vivo	https://www.caine-live.net/page5/page5.html
+42	XRY (XAMN)	Extracción y análisis de datos móviles	https://www.msab.com/products/xry/
+43	BlackLight	Análisis forense de Mac y Windows	https://www.blackbagtech.com/products/blacklight/
+44	WinHex	Editor hexadecimal y de discos	https://www.x-ways.net/winhex/
+45	Access FTK Imager	Creación de imágenes forenses	https://accessdata.com/product-download/ftk-imager
+46	DC3DD	Duplicación de discos con opciones forenses	https://sourceforge.net/projects/dc3dd/
+47	Raptor	Respuesta ante incidentes y análisis remoto	https://github.com/google/raptor
+48	EnCase Imager	Creación de imágenes forenses	https://www.opentext.com/products/encase-forensic
+49	Guymager	Creación de imágenes forenses en Linux	https://guymager.sourceforge.io/
+50	Scalpel	Recuperación de archivos por carving	https://github.com/sleuthkit/scalpel
+51	Extundelete	Recuperación de archivos en ext3/ext4	https://github.com/extundelete/extundelete
+52	Xplico	Análisis y reconstrucción de tráfico de red	https://www.xplico.org/
+53	Foremost	Recuperación de archivos borrados	https://foremost.sourceforge.net/
+54	Hunchback	Herramienta de análisis forense	https://github.com/dfir-hunchback/hunchback
+55	Autopsy Tools	Utilidades para Autopsy	https://www.autopsy.com/download/
+56	OSForensics Imager	Creación de imágenes forenses	https://www.osforensics.com/tools/create-disk-images.html
+57	Dislocker	Acceso a volúmenes BitLocker	https://github.com/Aorimn/dislocker
+58	Bulk Extractor	Extracción masiva de artefactos	https://github.com/simsong/bulk_extractor
+59	SANS SIFT	Distribución forense	https://digital-forensics.sans.org/community/downloads
+60	Live View	Conversión de imágenes en máquinas virtuales	https://sourceforge.net/projects/liveview/
+61	LRR	Herramienta de análisis forense	No disponible
+62	NTFS-3G	Acceso y edición de NTFS en Linux	https://www.tuxera.com/community/open-source-ntfs-3g/
+63	WindowsSCOPE	Análisis de memoria de Windows	https://www.windowsscope.com/
+64	Volafax	Herramienta de análisis forense	No disponible
+65	Amcache Parser	Análisis del archivo Amcache	https://github.com/EricZimmerman/AmcacheParser
+66	The Hive	Gestión de incidentes y análisis forense	https://thehive-project.org/
+67	GRR Rapid Response	Análisis remoto y respuesta ante incidentes	https://github.com/google/grr
+68	Rekall	Análisis forense de memoria RAM	https://github.com/google/rekall
+69	DFF	Marco de análisis forense digital	https://www.digital-forensic.org/download/
+70	SSDeep	Detección de archivos similares (fuzzy hashing)	https://ssdeep-project.github.io/ssdeep/index.html
+71	KAPE	Recolección y análisis rápido de artefactos	https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape
+72	USB Write Blocker	Prevención de escritura en USB	https://www.kanguru.com/storage-accessories/usb-write-blocker.html
+73	AIL	Análisis de fugas de información	https://github.com/CIRCL/AIL-framework
+74	Rifiuti2	Análisis de la papelera de reciclaje de Windows	https://github.com/abelcheung/rifiuti2
+75	VolDiff	Detección de diferencias en dumps de memoria	https://github.com/aim4r/VolDiff
+76	WinAudit	Auditoría de sistemas Windows	https://www.parmavex.co.uk/winaudit.html
+77	hfind	Búsqueda de archivos en imágenes forenses	https://www.sleuthkit.org/sleuthkit/download.php
+78	Yara	Detección de malware por reglas	https://github.com/VirusTotal/yara
+79	Checkm8	Jailbreak y análisis de dispositivos Apple	https://checkm8.info/
+80	Oefile	Análisis de archivos ejecutables PE	https://github.com/decalage2/olefile
+81	Pyew	Análisis de binarios y malware	https://github.com/blackphear/pyew
+82	E01 Examiner	Análisis de imágenes forenses E01	https://www.e01examiner.com/
+83	USBDeview	Visualización de dispositivos USB conectados	https://www.nirsoft.net/utils/usb_devices_view.html
+84	Autopsy - iPhone	Análisis de iPhone con Autopsy	https://www.autopsy.com/download/
+85	DC3-MWCP	Procesamiento de mensajes de malware	https://github.com/Defense-Cyber-Crime-Center/DC3-MWCP
+86	X-Ways Imager	Creación de imágenes forenses	https://www.x-ways.net/forensics/
+87	Memoryze	Análisis de memoria de Windows	https://www.fireeye.com/services/freeware/memoryze.html
+88	EVTXtract	Extracción de eventos de archivos EVTX	https://github.com/omerbenamram/evtxtract
+89	Speedit	Herramienta de análisis forense	No disponible
+90	SniffPass	Captura de contraseñas en tráfico de red	https://www.nirsoft.net/utils/sniffpass.html
+91	Nmap	Escaneo y análisis de redes	https://nmap.org/download.html
+92	OSINT Framework	Recopilación de inteligencia de fuentes abiertas	https://osintframework.com/
+93	Recon-ng	Framework para recolección de OSINT	https://github.com/lanmaster53/recon-ng
+94	OSINT-SPY	Herramienta de inteligencia de fuentes abiertas	https://github.com/SharadKumar97/OSINT-SPY
+95	Shodan	Búsqueda de dispositivos conectados a Internet	https://www.shodan.io/
+96	Maltego	Análisis de relaciones y minería de datos	https://www.maltego.com/downloads/
+97	SpiderFoot	Recolección automatizada de OSINT	https://www.spiderfoot.net/download/
+98	Metagoofil	Extracción de metadatos de documentos	https://github.com/opsdisk/metagoofil
+99	TheHarvester	Recolección de correos y dominios	https://github.com/laramies/theHarvester
+100	Creepy	Geolocalización por metadatos	https://github.com/jkakavas/creepy
